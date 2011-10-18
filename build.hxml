@@ -1,0 +1,27 @@
+-cp src
+
+# Uncomment the desirable target
+# JavaScript target
+# -js out/haxe-helloworld.js
+
+-js out/test.js
+
+
+# SWF 9 target
+# -swf9 out/haxe-helloworld.swf
+
+# ActionScript3 target
+# -as3 out
+
+# Neko target
+# -neko out/haxe-helloworld.n
+
+# PHP target
+# -php out
+
+# C++ target
+# -cpp out
+
+# Uncomment and place your main class with package
+# -main package.subpackage.ClassName
+-main Test
